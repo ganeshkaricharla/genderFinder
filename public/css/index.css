@@ -1,0 +1,41 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #F5F5F5;
+    margin: 0;
+    padding: 0;
+}
+
+
+#title {
+    background-color: #F05454;
+    padding: 8% 5%;
+    color: #FFFFFF;
+    font-weight: 900;
+}
+
+
+#title-male {
+    background-color: #1ba9fc;
+    padding: 8% 5%;
+    color: #FFFFFF;
+    font-weight: 900;
+}
+
+#title-female {
+    background-color: #f10e9a;
+    padding: 8% 5%;
+    color: #FFFFFF;
+    font-weight: 900;
+}
+
+.container-fluid {
+    margin:0;
+    padding:0;
+}
+
+.form-class {
+    padding:5% 0;
+}
+#inputName {
+    padding:1% 3%;
+}
